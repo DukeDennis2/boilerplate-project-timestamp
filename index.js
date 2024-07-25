@@ -1,5 +1,4 @@
-// index.js
-// where your node app starts
+//course completed
 
 // init project
 var express = require('express');
